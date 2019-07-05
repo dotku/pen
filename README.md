@@ -10,10 +10,10 @@ the content in the most efficent way.
 
 ## About Me
 
-I am an Software Engineer in San Francisco. I got involued many project across different industry, including but not
-limited to WordPress, Drupal, ECommerce Magento, Discuz Forum, Social Network, IoT, Huaman Robot and ect. The concept of
-this project come from my prvious project in NLP (Natural Language Processing). For NPL, we need deal with the content
-and the related domains.
+I am a Senior Software Engineer in San Francisco. I got involved with many projects across different industries and
+countries, including but not limited to Xero fin tech SaaS Expense system, Huawei AI Robot, Facebook IoT Portal Smart
+Device, TRS CMS (Content Management System), DA (Data Analysis) and big data mining, E-Commerce Magento, WordPress and
+Drupal CMS, Tencent Discuz forum social media and etc.
 
 ## Purpose
 
