@@ -12,7 +12,7 @@ the content in the most efficent way.
 
 ## Usage
 
-```
+```bash
 git clone
 npm install
 npm start
@@ -22,6 +22,10 @@ npm start
 
 * Service Worker
 * Node/Python Server (welcome to contribute and create your own server)
+
+## Program Design
+
+Please refere to [src/public/data/README.md](src/public/data/README.md) for more detail.
 
 ## About Me
 
