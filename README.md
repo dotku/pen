@@ -22,6 +22,7 @@ npm start
 
 * Service Worker
 * Node/Python Server (welcome to contribute and create your own server)
+* GitHub integration
 
 ## Program Design
 
