@@ -1,6 +1,6 @@
 # pen
 
-![Screenshot]('./assets/images/WX20190704-233451@2x.png')
+![Screenshot](./assets/images/WX20190704-233451@2x.png)
 
 A simple CMS system.
 
