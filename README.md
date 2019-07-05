@@ -37,3 +37,7 @@ There are few thing you can use this project to practice.
 
 1. CMS, you can publish your content with this program.
 2. ECommerce, you can also use this program to sale your product or service.
+
+## Contributing
+
+Welcome to contribute to this project in any kind of forms, code, promiting, or etc.
