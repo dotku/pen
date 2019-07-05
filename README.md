@@ -18,6 +18,11 @@ npm install
 npm start
 ```
 
+## Plan
+
+* Service Worker
+* Node/Python Server (welcome to contribute and create your own server)
+
 ## About Me
 
 I am a Senior Software Engineer in San Francisco. I got involved with many projects across different industries and
@@ -40,4 +45,4 @@ There are few thing you can use this project to practice.
 
 ## Contributing
 
-Welcome to contribute to this project in any kind of forms, code, promiting, or etc.
+Welcome to contribute to this project in any kind of forms: pull request code, promiting, or etc.
