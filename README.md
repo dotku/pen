@@ -10,6 +10,14 @@ Most CSM provide complicate template system for customization and impresss audie
 project would focuse on content and the creator especially the programmers. I want to help them to create and update
 the content in the most efficent way.
 
+## Usage
+
+```
+git clone
+npm install
+npm start
+```
+
 ## About Me
 
 I am a Senior Software Engineer in San Francisco. I got involved with many projects across different industries and
